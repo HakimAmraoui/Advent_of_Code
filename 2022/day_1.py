@@ -1,5 +1,6 @@
 import os
 import numpy as np
+
 file_path = os.path.join("Inputs/Day_1/input.txt")
 
 c = 0
